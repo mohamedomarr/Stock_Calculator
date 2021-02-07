@@ -1,5 +1,8 @@
 # Your Variables
+
+# Here's put your worth
 main_cash = 500
+# USD to EGP rate
 EGP= 15.73
 Number_of_days = 252
 Profit_Percentage_per_day = 3
