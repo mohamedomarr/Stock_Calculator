@@ -1,2 +1,2 @@
 # Stock_Calculator
-It's just perfect
+Stock profit calculator based in complex add profit method
